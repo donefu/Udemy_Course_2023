@@ -1,4 +1,4 @@
-## Teen Number Checker
+# Teen Number Checker
 
     We'll say that a number is "teen" if it is in the range 13 -19 (inclusive).
 
@@ -26,6 +26,6 @@
 
     isTeen(13);  should return true since 13 is in range 13 - 19
 
-# NOTE: All methods need to be defined as public static ​like we have been doing so far in the course.
+## NOTE: All methods need to be defined as public static ​like we have been doing so far in the course.
 
-# NOTE: Do not add a main method to solution code.
+## NOTE: Do not add a main method to solution code.

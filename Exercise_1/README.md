@@ -10,6 +10,6 @@
 
     "zero" if the parameter number is equal to 0
 
-# NOTE: The checkNumber method needs to be defined as public static like we have been doing so far in the course.
+## NOTE: The checkNumber method needs to be defined as public static like we have been doing so far in the course.
 
-# NOTE: Do not add a main method to your solution code!
+## NOTE: Do not add a main method to your solution code!

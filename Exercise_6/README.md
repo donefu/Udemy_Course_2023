@@ -1,4 +1,4 @@
-## DecimalComparator
+# DecimalComparator
 
     Write a method areEqualByThreeDecimalPlaces with two parameters of type double.
 
@@ -14,10 +14,10 @@
 
     areEqualByThreeDecimalPlaces(-3.123, 3.123); → should return false since numbers are not equal up to 3 decimal places.
 
-# TIP: Use paper and pencil.
+## TIP: Use paper and pencil.
 
-# TIP: Use casting.
+## TIP: Use casting.
 
-# NOTE: The areEqualByThreeDecimalPlaces method needs to be defined as public static ​like we have been doing so far in the course.
+## NOTE: The areEqualByThreeDecimalPlaces method needs to be defined as public static ​like we have been doing so far in the course.
 
-# NOTE: Do not add a main method to solution code.
+## NOTE: Do not add a main method to solution code.

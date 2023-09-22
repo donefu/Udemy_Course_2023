@@ -22,16 +22,16 @@
 
     printMegaBytesAndKiloBytes(5000); → should print the following text: "5000 KB = 4 MB and 904 KB"
 
-# TIP: Be extremely careful about spaces in the printed message.
+## TIP: Be extremely careful about spaces in the printed message.
 
-# TIP: Use the remainder operator
+## TIP: Use the remainder operator
 
-# TIP: 1 MB = 1024 KB
+## TIP: 1 MB = 1024 KB
 
-# NOTE: Do not set kilobytes parameter value inside your method.
+## NOTE: Do not set kilobytes parameter value inside your method.
 
-# NOTE: The solution will not be accepted if there are extra spaces.
+## NOTE: The solution will not be accepted if there are extra spaces.
 
-# NOTE: The printMegaBytesAndKiloBytes method needs to be defined as public static ​like we have been doing so far in the course.
+## NOTE: The printMegaBytesAndKiloBytes method needs to be defined as public static ​like we have been doing so far in the course.
 
-# NOTE: Do not add a main method to solution code.
+## NOTE: Do not add a main method to solution code.

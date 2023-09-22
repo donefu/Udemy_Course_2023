@@ -1,4 +1,4 @@
-## Leap Year Calculator
+# Leap Year Calculator
 
     Write a method isLeapYear with a parameter of type int named year.
 
@@ -8,7 +8,7 @@
 
     Otherwise, if it is in the valid range, calculate if the year is a leap year and return true if it is a leap year, otherwise return false.
 
-# To determine whether a year is a leap year, follow these steps:
+## To determine whether a year is a leap year, follow these steps:
 
 1. If the year is evenly divisible by 4, go to step 2. Otherwise, go to step 5.
 2. If the year is evenly divisible by 100, go to step 3. Otherwise, go to step 4.
@@ -34,6 +34,6 @@
 
     isLeapYear(2000);  → should return true because 2000 is a leap year
 
-# NOTE: The method isLeapYear needs to be defined as public static ​like we have been doing so far in the course.
+## NOTE: The method isLeapYear needs to be defined as public static ​like we have been doing so far in the course.
 
-# NOTE: Do not add a main method to solution code.
+## NOTE: Do not add a main method to solution code.
