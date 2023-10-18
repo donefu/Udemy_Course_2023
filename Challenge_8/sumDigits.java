@@ -2,8 +2,9 @@ package Challenge_8;
 
 public class sumDigits {
     public static void main(String[] args) {
-        int number = -125;
-        System.out.println(sumDigits(number));
+        int number = 237;
+        int result = sumDigits(number);
+        System.out.println(result);
     }
 
     // METHOD
