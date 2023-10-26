@@ -23,7 +23,7 @@ public class min_max {
                 checker = true;
             }
         } while (!checker);
-
+        scan.close();
         System.out.println("Max: " + max);
         System.out.println("Min: " + min);
     }

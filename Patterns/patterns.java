@@ -1,6 +1,6 @@
 package Patterns;
 
-public class main {
+public class patterns {
     public static void main(String[] args) {
         pattern30(5);
     }

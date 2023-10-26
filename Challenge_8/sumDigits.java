@@ -3,13 +3,13 @@ package Challenge_8;
 public class sumDigits {
     public static void main(String[] args) {
         int number = 237;
-        int result = sumDigits(number);
+        int result = sumDigitsFunct(number);
         System.out.println(result);
     }
 
     // METHOD
 
-    public static int sumDigits(int number) {
+    public static int sumDigitsFunct(int number) {
         if (number < 0) {
             return -1;
         }

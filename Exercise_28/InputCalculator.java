@@ -25,5 +25,6 @@ public class InputCalculator {
         } while (!checker);
         long average = Math.round((double) sum / count);
         System.out.println("SUM = " + sum + " AVG = " + average);
+        scan.close();
     }
 }

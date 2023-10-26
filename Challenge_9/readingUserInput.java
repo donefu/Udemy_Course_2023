@@ -22,5 +22,6 @@ public class readingUserInput {
             }
         } while (count <= 5);
         System.out.println(sum);
+        scan.close();
     }
 }

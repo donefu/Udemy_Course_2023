@@ -4,7 +4,7 @@ public class fiboNumber {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        int input = scan.nextInt();
+        // int input = scan.nextInt();
         int a = 0;
         int b = 1;
         int count = 2;
@@ -16,5 +16,6 @@ public class fiboNumber {
             count++;
         }
         System.out.println(b);
+        scan.close();
     }
 }
