@@ -3,9 +3,27 @@ package Challenge_11;
 public class Bank {
     private String account_number;
     private double account_balance;
-    private String name;
-    private String email;
-    private String phone_number;
+    private String account_name;
+    private String account_email;
+    private String account_phone_number;
+
+    public Bank() {
+        this("5678", 2.50, "Default Name",
+                "Default Email", "Default Phone Number");
+        System.out.println("Empty constructor called");
+    }
+
+    public Bank(String number, double balance, String name, String email, String phone_number) {
+        this.account_number = number;
+        this.account_balance = balance;
+        this.account_name = name;
+        account_email = email;
+        account_phone_number = number;
+    }
+
+    public Bank (String name, String email, String phoneNumber) {
+        this("9999", 100.5, name, email, phoneNumber);
+    }
 
     // Getter and Setter
     public String getAccount_number() {
@@ -25,27 +43,27 @@ public class Bank {
     }
 
     public String getName() {
-        return name;
+        return account_name;
     }
 
     public void setName(String name) {
-        this.name = name;
+        this.account_name = name;
     }
 
     public String getEmail() {
-        return email;
+        return account_email;
     }
 
     public void setEmail(String email) {
-        this.email = email;
+        this.account_email = email;
     }
 
     public String getPhone_number() {
-        return phone_number;
+        return account_phone_number;
     }
 
     public void setPhone_number(String phone_number) {
-        this.phone_number = phone_number;
+        this.account_phone_number = phone_number;
     }
 
     // METHOD
