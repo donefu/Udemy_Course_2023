@@ -1,4 +1,4 @@
-package ComputerFactory;
+package Lessons.ComputerFactory;
 
 public class PersonalComputer extends Product {
     private ComputerCase computerCase;
@@ -22,16 +22,16 @@ public class PersonalComputer extends Product {
         drawLogo();
     }
 
-//    public ComputerCase getComputerCase() {
-//        return computerCase;
-//    }
-//
-//    public Monitor getMonitor() {
-//        return monitor;
-//    }
-//
-//    public Motherboard getMotherboard() {
-//        return motherboard;
-//    }
+   public ComputerCase getComputerCase() {
+       return computerCase;
+   }
+
+   public Monitor getMonitor() {
+       return monitor;
+   }
+
+   public Motherboard getMotherboard() {
+       return motherboard;
+   }
 
 }

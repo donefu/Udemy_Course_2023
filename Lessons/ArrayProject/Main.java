@@ -1,4 +1,4 @@
-package ArrayProject;
+package Lessons.ArrayProject;
 
 import java.util.Arrays;
 import java.util.Random;

@@ -1,4 +1,4 @@
-package StringFormat;
+package Lessons.StringFormat;
 
 public class AllAboutString {
     public static void main(String[] args) {

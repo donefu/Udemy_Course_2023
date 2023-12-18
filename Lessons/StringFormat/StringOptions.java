@@ -1,5 +1,5 @@
 
-package StringFormat;
+package Lessons.StringFormat;
 
 public class StringOptions {
     public static void main(String[] args) {

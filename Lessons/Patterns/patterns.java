@@ -1,4 +1,4 @@
-package Patterns;
+package Lessons.Patterns;
 
 public class patterns {
     public static void main(String[] args) {

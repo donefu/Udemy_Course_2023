@@ -1,4 +1,4 @@
-package Inheritance;
+package Lessons.Inheritance;
 
 public class Dog extends Animal {
     private String earShape;

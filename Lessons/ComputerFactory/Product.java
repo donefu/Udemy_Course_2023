@@ -1,4 +1,4 @@
-package ComputerFactory;
+package Lessons.ComputerFactory;
 
 public class Product {
     private String model;

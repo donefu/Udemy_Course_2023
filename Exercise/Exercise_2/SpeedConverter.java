@@ -1,4 +1,4 @@
-package Exercise_2;
+
 
 public class SpeedConverter {
     public static void main(String[] args) {

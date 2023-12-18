@@ -1,4 +1,4 @@
-package Inheritance;
+package Lessons.Inheritance;
 
 public class Main {
     public static void main(String[] args) {

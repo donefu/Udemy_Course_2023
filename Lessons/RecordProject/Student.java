@@ -1,4 +1,4 @@
-package RecordProject;
+package Lessons.RecordProject;
 
 public class Student {
     private String id;

@@ -1,4 +1,4 @@
-package Inheritance;
+package Lessons.Inheritance;
 
 public class Animal {
     protected String type;
