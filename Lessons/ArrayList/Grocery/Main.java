@@ -34,7 +34,6 @@ public class Main {
                         new GroceryItems ("apples", "PRODUCE", 6));
         groceryList.remove(groceryList);
         System.out.println(groceryList);
-        
     }
 
 }

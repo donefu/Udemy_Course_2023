@@ -2,7 +2,7 @@ package Challenge_15;
 
 import java.util.ArrayList;
 import java.util.Comparator;
-import java.util.List;
+
 import java.util.Scanner;
 
 public class Solution {
@@ -23,6 +23,7 @@ public class Solution {
             grocery.sort(Comparator.naturalOrder());
             System.out.println(grocery);
         }
+        scan.close();
     }
 
 

@@ -37,6 +37,7 @@ public class Main {
             System.out.println(grocery);
         } while (input != 0);
         System.out.println("Here is the list: " + grocery);
+        scan.close();
     }
 
     private static void printActions() {
